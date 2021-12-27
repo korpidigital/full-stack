@@ -1,3 +1,7 @@
 tasks:
   - init: nmp install
     command: npm run dev
+
+ports:
+  - port: 3000
+    
