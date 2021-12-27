@@ -12,3 +12,9 @@ ports:
 vscode:
   extensions:
     - svelte.svelte-vscode-nightly
+
+github:
+  prebuilds:
+    maseter: true
+    branches: true
+    pullRequests: true
